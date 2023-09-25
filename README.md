@@ -1,4 +1,4 @@
-# Documenting 📝 on Github with [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup> 1 </sup>
+# Documenting 📝 on Github with [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) [<sup> 1 </sup>](#References)
 
 This repository was created to expand my knowledge of documenting and formating project notes in Github using Github **Markdown and formating syntax**.
 
@@ -24,6 +24,6 @@ You can display an image by adding ! and wrapping the alt text in [ ]. Alt text 
 You can add emoji to your writing by typing :EMOJICODE:, a colon followed by the name of the emoji. Emoji's add more visualization to your document
 - Here is a link to [Github Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
-## Refrences 
+## References 
 - [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <sup> 1 </sup>
 - [cloud computing image](https://tateeda.com/wp-content/webp-express/webp-images/uploads/2023/02/img-2-13.png.webp) <sup> 2 </sup>
